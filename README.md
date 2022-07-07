@@ -7,17 +7,22 @@
 - [Aleo Package Manager](https://aleo.pm) - Leo包管理工具
 - [Aleo Developer Docs](https://developer.aleo.org) - 开发者文档
 - [Aleo Community Calendar ](https://www.aleo.org/community/calendar) - 官方AMA日历
+- [Leo 白皮书](https://eprint.iacr.org/2021/651.pdf)
+- [PoSW](https://developer.aleo.org/advanced/posw/posw) - Aleo的PoSW共识算法
+- [Aleo Community](https://www.notion.so/Community-4f9bdf6988fb4e9e9eeffa9b33b89168) - 项目Wiki
 - [Discord](https://discord.com/invite/aleohq) - 官方Discord
 - [Twitter](https://twitter.com/aleohq) - 官方Twitter
 
 ## 代码仓库
-- [aleo](https://github.com/AleoHQ/aleo) - 零知识交易SDK
+- [aleo](https://github.com/AleoHQ/aleo) - Aleo区块链实现代码仓库
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - 挖矿节点
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - 虚拟机
+- [marlin](https://github.com/arkworks-rs/marlin) - marlin算法
 
 ## 矿池搭建
 - [HarukaMa/aleo-prover](https://github.com/HarukaMa/aleo-prover)
 - [HarukaMa/aleo-pool-server](https://github.com/HarukaMa/aleo-pool-server) - 社区大佬[@HarukaMa](https://github.com/HarukaMa)开源的矿池服务端
+- [Aleo Pool Specifications](https://www.notion.so/Pool-Specifications-4aa2762c4b714d658145b95192f22ae6) - 矿池实现规范
 
 ## 社区资源
 - [Haruka's Aleo Explorer](https://explorer.hamp.app) - 社区大佬[@HarukaMa](https://github.com/HarukaMa)开发的区块浏览器
@@ -31,7 +36,8 @@
 - 推荐硬件配置 (TODO)
 - Filecoin算力机改造方案 (TODO)
 
-## 软件优化
+## 算法优化
+- [Poseidon Hash资源站](https://www.poseidon-hash.info) - 波塞冬算法资源站
 - GPU 优化方案 (TODO)
 
 ## 运维监控
