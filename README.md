@@ -19,12 +19,16 @@
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - 虚拟机
 - [marlin](https://github.com/arkworks-rs/marlin) - marlin算法
 
+## Aleo矿池
+- [zk.work](https://zk.work) - 石榴矿池
+
 ## 矿池搭建
 - [HarukaMa/aleo-prover](https://github.com/HarukaMa/aleo-prover)
 - [HarukaMa/aleo-pool-server](https://github.com/HarukaMa/aleo-pool-server) - 社区大佬[@HarukaMa](https://github.com/HarukaMa)开源的矿池服务端
 - [Aleo Pool Specifications](https://www.notion.so/Pool-Specifications-4aa2762c4b714d658145b95192f22ae6) - 矿池实现规范
 
 ## 社区资源
+- [Aleo Info](https://aleo.info) - 区块浏览器
 - [Haruka's Aleo Explorer](https://explorer.hamp.app) - 社区大佬[@HarukaMa](https://github.com/HarukaMa)开发的区块浏览器
 - [aleochain.io](https://aleochain.io) - 社区开发的区块浏览器（未持续更新）
 
@@ -37,7 +41,7 @@
 - Filecoin算力机改造方案 (TODO)
 
 ## 算法优化
-- [Poseidon Hash资源站](https://www.poseidon-hash.info) - 波塞冬算法资源站
+- [Poseidon Hash](https://www.poseidon-hash.info) - 波塞冬算法资源站
 - GPU 优化方案 (TODO)
 
 ## 运维监控
