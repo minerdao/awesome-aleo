@@ -26,6 +26,7 @@
 - [HarukaMa/aleo-prover](https://github.com/HarukaMa/aleo-prover)
 - [HarukaMa/aleo-pool-server](https://github.com/HarukaMa/aleo-pool-server) - 社区大佬[@HarukaMa](https://github.com/HarukaMa)开源的矿池服务端
 - [Aleo Pool Specifications](https://www.notion.so/Pool-Specifications-4aa2762c4b714d658145b95192f22ae6) - 矿池实现规范
+- [6block zkwork aleo worker](https://github.com/6block/zkwork_aleo_worker) - 石榴矿池worker端
 
 ## 社区资源
 - [Aleo Info](https://aleo.info) - 区块浏览器
