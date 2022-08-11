@@ -19,6 +19,10 @@
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - 虚拟机
 - [marlin](https://github.com/arkworks-rs/marlin) - marlin算法
 
+## 经济模型
+- [Aleo经济模型](https://www.aleo.org/post/aleo-token-economics) - Aleo官方经济模型
+- [Aleo奖励分配机制解读](https://medium.com/@zkrush/a-sneak-peek-into-aleo-reward-distribution-mechanism-a2ee12fe867) - ZKRush关于奖励分配机制的分析解读
+
 ## Aleo矿池
 - [zk.work](https://zk.work) - 石榴矿池
 
