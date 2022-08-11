@@ -14,9 +14,9 @@
 - [Twitter](https://twitter.com/aleohq) - 官方Twitter
 
 ## 代码仓库
-- [aleo](https://github.com/AleoHQ/aleo) - Aleo区块链实现代码仓库
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - 挖矿节点
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - 虚拟机
+- [Aleo SDK](https://github.com/AleoHQ/aleo) - Aleo开发SDK，用于创建账号，构造并发送交易等
 - [marlin](https://github.com/arkworks-rs/marlin) - marlin算法
 
 ## 经济模型
