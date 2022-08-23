@@ -38,6 +38,7 @@
 - [aleochain.io](https://aleochain.io) - 社区开发的区块浏览器（未持续更新）
 
 ## 开发资源
+- [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/) - Aleo应用开发入门教程，讲解如何在测试网上部署Aleo应用
 - [@aleohq/sdk](https://github.com/AleoHQ/aleo) - 官方的JavaScript SDK
 - [@qqmee/sdk-account-nodejs](https://github.com/qqmee/aleo-sdk) - 社区大佬[@qqmee](https://github.com/qqmee)开发的JavaScript SDK
 
