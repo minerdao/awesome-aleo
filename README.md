@@ -6,6 +6,7 @@
 - [Aleo Studio](https://www.aleo.studio) - 编写零知识证明应用的开发IDE
 - [Aleo Package Manager](https://aleo.pm) - Leo包管理工具
 - [Aleo Developer Docs](https://developer.aleo.org) - 开发者文档
+- [Aleo Program](https://www.aleo.network/programs) - Testnet3 Phase1应用开发排行榜
 - [Aleo Community Calendar ](https://www.aleo.org/community/calendar) - 官方AMA日历
 - [Leo 白皮书](https://eprint.iacr.org/2021/651.pdf)
 - [PoSW](https://developer.aleo.org/advanced/posw/posw) - Aleo的PoSW共识算法
@@ -30,7 +31,8 @@
 - [HarukaMa/aleo-prover](https://github.com/HarukaMa/aleo-prover)
 - [HarukaMa/aleo-pool-server](https://github.com/HarukaMa/aleo-pool-server) - 社区大佬[@HarukaMa](https://github.com/HarukaMa)开源的矿池服务端
 - [Aleo Pool Specifications](https://www.notion.so/Pool-Specifications-4aa2762c4b714d658145b95192f22ae6) - 矿池实现规范
-- [6block zkwork aleo worker](https://github.com/6block/zkwork_aleo_worker) - 石榴矿池worker端
+- [6block/6block zkwork aleo worker](https://github.com/6block/zkwork_aleo_worker) - 石榴矿池worker端
+- [ABMatrix/zkmatrix-pool-protocol](https://github.com/ABMatrix/zkmatrix-pool-protocol) - ABMatrix的Aleo矿池协议
 
 ## 社区资源
 - [Aleo Info](https://aleo.info) - 区块浏览器
@@ -54,7 +56,13 @@
 - 集群搭建 (TODO)
 - 部署脚本 (TODO)
 
-## 技术社群
-欢迎加入Aleo技术交流群，微信号: maxmillion-eth (备注: Aleo)。
+## 加入社群
+MinerDAO社区聚集了Aleo项目的矿工、开发者、投资人。  
+我们为矿工和开发者提供技术交流、算法优化、资源合作、新项目研究等，欢迎大家加入讨论。
 
-<img src="./images/wechat-max.png" width="200">
+- 微信号: maxmillion-eth (备注: MinerDAO)
+
+  <img src="https://raw.githubusercontent.com/minerdao/posts/master/images/wechat-max.png" width="200">
+
+- [Telegram交流群](https://t.me/joinchat/TOGYnsZ2itA0NGZl)
+- [Discord交流群](https://discord.gg/4f3DjmDk7j)
