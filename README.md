@@ -19,13 +19,19 @@
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - 虚拟机
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - Aleo开发SDK，用于创建账号，构造并发送交易等
 - [marlin](https://github.com/arkworks-rs/marlin) - marlin算法
+- [Sppark](https://github.com/supranational/sppark) - SnarkVM cuda底层算法库
 
 ## 经济模型
 - [Aleo经济模型](https://www.aleo.org/post/aleo-token-economics) - Aleo官方经济模型
 - [Aleo奖励分配机制解读](https://medium.com/@zkrush/a-sneak-peek-into-aleo-reward-distribution-mechanism-a2ee12fe867) - ZKRush关于奖励分配机制的分析解读
 
 ## Aleo矿池
+- [F2pool](https://www.f2pool.com) - 鱼池
+- [Hpool](https://www.hpool.in) - 哈池
 - [zk.work](https://zk.work) - 石榴矿池
+- [zkRush](https://zkrush.com) - ZKRush
+- [Damominer](https://www.damominer.hk) - 达摩
+- [AleoPool](https://aleopool.xyz) - AleoPool
 
 ## 矿池搭建
 - [HarukaMa/aleo-prover](https://github.com/HarukaMa/aleo-prover)
@@ -33,6 +39,9 @@
 - [Aleo Pool Specifications](https://www.notion.so/Pool-Specifications-4aa2762c4b714d658145b95192f22ae6) - 矿池实现规范
 - [6block/6block zkwork aleo worker](https://github.com/6block/zkwork_aleo_worker) - 石榴矿池worker端
 - [ABMatrix/zkmatrix-pool-protocol](https://github.com/ABMatrix/zkmatrix-pool-protocol) - ABMatrix的Aleo矿池协议
+
+## 算法优化
+- [sppark](https://github.com/supranational/sppark)
 
 ## 社区资源
 - [Aleo Info](https://aleo.info) - 区块浏览器
